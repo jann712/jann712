@@ -1,10 +1,5 @@
-Olá, me chamo João Augusto.
+Olá, meu nome é João Augusto.
 
-Estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na FIAP, continuando a evoluir minhas habilidades em grupo.
+Vários projetos de Python, HTML e Flask estão disponíveis nos meus repositórios.
 
-No repositório 'python' estarei disponibilizando projetos feitos anteriormente por mim e
-adicionarei novos projetos, enquanto aprendo.
-
-Agradeço a atenção.
-
-
+Bem-vindos.
