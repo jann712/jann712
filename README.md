@@ -1,8 +1,6 @@
-Olá, meu nome é João Augusto.
 Hello, my name is João Augusto.
 
-Vários projetos de Python, HTML, React e Flask estão disponíveis nos meus repositórios.
+I'm a fullstack developer working with React.js and Node.js.
 Various projects ranging from Python to React are available on my repositories.
 
-Bem-vindos.
-Welcome.
+Welcome!
